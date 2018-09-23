@@ -1,2 +1,2 @@
 # image repositories for studio
-![studio address](https://narthil.me)
+[studio address](https://narthil.me)
